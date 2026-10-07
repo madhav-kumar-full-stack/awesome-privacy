@@ -1,3 +1,5 @@
+- [PDFCraftify](https://pdfcraftify.com) – Browser-based PDF merge, split, convert, and more; core tools process files locally without uploading to a server.
+- 
 <p align="center"><img src="icon.svg" width="75" height="75" alt="Awesome Privacy Icon"></p>
 
 <p align="center">A curated list of tools and services that respect your privacy.</p>
